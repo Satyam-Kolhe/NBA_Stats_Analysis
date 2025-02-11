@@ -1,0 +1,5 @@
+games.csv filter=lfs diff=lfs merge=lfs -text
+games_details.csv filter=lfs diff=lfs merge=lfs -text
+players.csv filter=lfs diff=lfs merge=lfs -text
+ranking.csv filter=lfs diff=lfs merge=lfs -text
+teams.csv filter=lfs diff=lfs merge=lfs -text
