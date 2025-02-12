@@ -106,7 +106,7 @@ if selection == 'Team':
                     st.pyplot(fig)
 
             elif section == "Match Details":
-                st.header("Top 10 Teams Rankings")
+                # st.header("Top 10 Teams Rankings")
                 # Select season
                 season = st.sidebar.slider('Select Season:', 2014, 2022, 2022)
                 # Filter data based on the selected season
